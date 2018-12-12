@@ -3,3 +3,8 @@
 ################################################################################
 
 /MAACC/bin/Debug
+/MAACC/obj/Debug
+/MAACC.Android/bin/Debug
+/MAACC.Android/obj
+/packages
+/.vs
